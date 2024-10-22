@@ -23,6 +23,8 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana)
 ![Helm](https://img.shields.io/badge/-Helm-333?style=flat&logo=helm)
 ![ELK](https://img.shields.io/badge/-ELK-333?style=flat&logo=elasticsearch)
+![Loki](https://img.shields.io/badge/-Loki-333?style=flat&logo=loki)
+![Tempo](https://img.shields.io/badge/-Tempo-333?style=flat&logo=tempo)
 
 
 ## Contact me

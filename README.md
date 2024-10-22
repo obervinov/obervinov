@@ -3,11 +3,11 @@
 ## What I do
 - 🛠 Developing and maintaining CI/CD pipelines
 - ☁ Work with cloud technologies (AWS, Kubernetes, Terraform)
-- 🐍 Programming in Python, creating automation tools
 - 💡 Interested in infrastructure as code (IaC) and containerisation (Docker, Kubernetes)
+- 📊 Monitoring and logging (ELK, Grafana, Loki, Tempo)
+- 🐍 Programming in Python, creating automation tools
 - 📚 Learning new technologies and tools
 - 📝 Writing technical documentation
-- 📊 Monitoring and logging
 
 ## Technology and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)

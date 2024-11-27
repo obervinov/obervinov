@@ -4,6 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e47gtp778jjhl7xsijlsw5r28fcbplidd6qm5axkw18&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180"/>
 </div>
+<div id="about" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&width=950&height=150&lines=*+Applying+5+years+of+expertise+in+a+DevOps+role;*+Bringing+over+12+years+of+commercial+experience+in+IT;*+Developing+Python+tools+to+solve+practical+problems+for+over+4+years" alt="Typing SVG" /></a>
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obervinov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,23 +30,20 @@
 
 <div align="center">
     <h2>Technology and Tools</h2>
-    <p>
-        <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python" />
-        <img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" alt="Docker" />
-        <img src="https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws" alt="AWS" />
-        <img src="https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform" alt="Terraform" />
-        <img src="https://img.shields.io/badge/-Istio-333?style=flat&logo=istio" alt="Istio" />
-        <img src="https://img.shields.io/badge/-Github_Actions-333?style=flat&logo=github-actions" alt="Github Actions" />
-        <img src="https://img.shields.io/badge/-Gitlab_CI/CD-333?style=flat&logo=gitlab" alt="Gitlab CI/CD" />
-        <img src="https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins" alt="Jenkins" />
-        <img src="https://img.shields.io/badge/-Vault-333?style=flat&logo=vault" alt="Vault" />
-        <img src="https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana" alt="Grafana" />
-        <img src="https://img.shields.io/badge/-Helm-333?style=flat&logo=helm" alt="Helm" />
-        <img src="https://img.shields.io/badge/-ELK-333?style=flat&logo=elasticsearch" alt="ELK" />
-        <img src="https://img.shields.io/badge/-Loki-333?style=flat&logo=loki" alt="Loki" />
-        <img src="https://img.shields.io/badge/-Tempo-333?style=flat&logo=tempo" alt="Tempo" />
-    </p>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://app.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
+    <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a> 
+    <a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+    <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vault/vault-original-wordmark.svg" alt="vault" width="40" height="40"/> </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> </a>
+    <a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a>
+    <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/> </a>
 </div>
 
 
@@ -58,5 +58,10 @@
 
 
 ## Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started,discussions_answered&hide=&show_icons=true&theme=dark)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=obervinov&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&custom_title=This%20is%20a%20title&hide_border=true&theme=github-compact" alt="GitHub Activity" /></a>
+</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started,discussions_answered&hide=&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov\&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

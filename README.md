@@ -59,20 +59,23 @@
 
 ## Statistics
 <div align="center">
-  <a href="https://github.com/obervinov">
-    <img src="https://streak-stats.demolab.com?user=obervinov&hide_border=true&mode=weekly" alt="GitHub Streak" style="display: inline-block; height: 200px; width: auto; margin: 5px;" />
-  </a>
-  <a href="https://github.com/obervinov">
-    <img src="https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started&hide=&show_icons=true&theme=white" alt="GitHub Stats" style="display: inline-block; height: 200px; width: auto; margin: 5px;" />
-  </a>
-  <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&custom_title=This%20is%20a%20title&hide_border=true&theme=github-compact" alt="GitHub Activity" style="width: 100%; height: auto; margin-top: 20px;" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov&theme=black&title=Lang" alt="Top Langs" style="display: inline-block; height: auto; width: auto; margin: 5px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov&theme=white&title=Lang" alt="Top Langs" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
+  </a>
+  </br>
+  <a href="https://github.com/obervinov">
+    <img src="https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started&hide=&show_icons=true&theme=white" alt="GitHub Stats" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
+  </a>
+  </br>
+  <a href="https://github.com/obervinov">
+    <img src="https://streak-stats.demolab.com?user=obervinov&hide_border=true&mode=weekly" alt="GitHub Streak" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
+  </a>
+  </br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&custom_title=This%20is%20a%20title&hide_border=true&theme=github-compact" alt="GitHub Activity" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>
 </div>
+
 
 
 

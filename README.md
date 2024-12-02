@@ -59,10 +59,11 @@
 
 ## Statistics
 <div align="center">
-  <a href="https://github.com/obervinov">
-    <img src="https://streak-stats.demolab.com?user=obervinov&hide_border=true&mode=weekly" alt="GitHub Streak" style="width: 500px; height: auto; margin: 10px;" />
+<!-- # Unstable widget
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=obervinov&mode=weekly" alt="GitHub Streak" style="width: 500px; height: auto; margin: 10px;" />
   </a>
-  </br>
+  </br> -->
   <a href="https://github.com/obervinov">
     <img src="https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started&hide=&show_icons=true&theme=white" alt="GitHub Stats" style="width: 500px; height: auto; margin: 10px;" />
   </a>

@@ -17,7 +17,7 @@
   <a href="https://t.me/bervinov_ob">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://cv.obervinov.com/obervinov/dev-ops-eng">
+  <a href="https://public.obervinov.com/dev-ops-eng.pdf">
     <img src="https://img.shields.io/badge/Full%20CV-%2333A2FF?style=for-the-badge&logoColor=fff" alt="Full CV"/>
   </a>
 </div>

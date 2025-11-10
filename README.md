@@ -11,14 +11,11 @@
   <a href="https://www.linkedin.com/in/obervinov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://gravatar.com/obervinov">
-    <img src="https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff&style=for-the-badge" alt="Gravatar Badge"/>
+  <a href="https://links.obervinov.com/obervinov">
+    <img src="https://img.shields.io/badge/Contacts-blue?style=for-the-badge&logoColor=fff" alt="Contacts and Links"/>
   </a>
-  <a href="https://t.me/bervinov_ob">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-  <a href="https://public.obervinov.com/dev-ops-eng.pdf">
-    <img src="https://img.shields.io/badge/Full%20CV-%2333A2FF?style=for-the-badge&logoColor=fff" alt="Full CV"/>
+  <a href="https://cv.obervinov.com">
+    <img src="https://img.shields.io/badge/My_CV-blue?style=for-the-badge&logoColor=fff" alt="Full CV"/>
   </a>
 </div>
 

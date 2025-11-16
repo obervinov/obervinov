@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://public.obervinov.com/static/github-header-banner.png"/>
+  <img src="https://public.obervinov.com/static/github-header-banner-2025-11-17.png"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obervinov">

@@ -1,18 +1,12 @@
-<h1 align="center">Hi there, I'm Oleg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">DevOps Engineer</h3>
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e47gtp778jjhl7xsijlsw5r28fcbplidd6qm5axkw18&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180"/>
-</div>
-<div id="about" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&width=950&height=150&lines=*+Applying+5+years+of+expertise+in+a+DevOps+role;*+Bringing+over+12+years+of+commercial+experience+in+IT;*+Developing+Python+tools+to+solve+practical+problems+for+over+4+years" alt="Typing SVG" /></a>
+  <img src="https://public.obervinov.com/static/github-header-banner.png"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/obervinov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://links.obervinov.com/obervinov">
-    <img src="https://img.shields.io/badge/Contacts-blue?style=for-the-badge&logoColor=fff" alt="Contacts and Links"/>
+  <a href="https://about.obervinov.com">
+    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logoColor=fff" alt="Personal site"/>
   </a>
   <a href="https://cv.obervinov.com">
     <img src="https://img.shields.io/badge/My_CV-blue?style=for-the-badge&logoColor=fff" alt="Full CV"/>
@@ -24,24 +18,33 @@
     <img src="https://komarev.com/ghpvc/?username=obervinov&style=for-the-badge&color=blue" alt="Counter"/>
   </a>
 </div>
+<h4 align="center"> DevOps/SRE Engineer | Kubernetes, AWS, Automation, Observability, IaC | Ensuring Scalable & Reliable Systems </h4>
 
 <div align="center">
     <h2>Technology and Tools</h2>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://app.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
-    <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a> 
-    <a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-    <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vault/vault-original-wordmark.svg" alt="vault" width="40" height="40"/> </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="40" height="40"/> </a>
-    <a href="https://helm.sh" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a>
-    <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="elasticsearch" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/> </a>
-</div>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/terraform" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/ansible" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ansible" alt="ansible" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/packer" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQgMhaEbwjq-Uaz1FoGjFztvXPdGahBZsSOQ&s" alt="packer" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/helm" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/277/889/png-clipart-helm-logo-tech-companies.png" alt="helm" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/k3s" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/K3s.svg" alt="k3s" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/karpenter" target="_blank" rel="noreferrer"> <img src="https://d3g9o9u8re44ak.cloudfront.net/logo/55cad6f2-84cb-49a7-9d60-265f7e4ea91e/8a67fa7b-85bd-44e4-823c-d7d5690777b1.png" alt="karpenter" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
+    </div>
 
 
 ## What I do
@@ -55,6 +58,7 @@
 
 
 ## Statistics
+
 <div align="center">
 <!-- # Unstable widget
   <a href="https://git.io/streak-stats">
@@ -62,20 +66,18 @@
   </a>
   </br> -->
   <a href="https://github.com/obervinov">
-    <img src="https://github-readme-stats.vercel.app/api?username=obervinov&show=reviews,discussions_started&hide=&show_icons=true&theme=white" alt="GitHub Stats" style="width: 500px; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=obervinov" alt="GitHub Stats" style="width: 500px; height: auto; margin: 10px;" />
   </a>
   </br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov&theme=white&title=Lang" alt="Top Langs" style="width: 500px; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov" alt="Top Langs" style="width: 500px; height: auto; margin: 10px;" />
+  </a>
+  </br>
+  <a href="https://github-readme-streak-stats.herokuapp.com">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=obervinov" alt="Streak Stats" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>
   </br>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&hide_border=true&theme=github-compact" alt="GitHub Activity" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>
 </div>
-
-
-
-
-
-

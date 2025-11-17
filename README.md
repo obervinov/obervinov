@@ -18,11 +18,12 @@
     <img src="https://komarev.com/ghpvc/?username=obervinov&style=for-the-badge&color=blue" alt="Counter"/>
   </a>
 </div>
-<h4 align="center"> DevOps/SRE Engineer | Kubernetes, AWS, Automation, Observability, IaC | Ensuring Scalable & Reliable Systems </h4>
+<h4 align="center"> DevOps/SRE Engineer | Kubernetes, AWS, Automation, Observability, IaC | Ensuring Scalable & Reliable Systems </h4></br>
+
 
 <div align="center">
     <h2>Technology and Tools</h2>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/terraform" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=terraform" alt="terraform" width="40" height="40"/> </a>
@@ -45,21 +46,19 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
     </div>
-
-
-## What I do
-- 🛠 Developing and maintaining CI/CD pipelines
-- ☁ Work with cloud technologies (AWS, Kubernetes, Terraform)
-- 💡 Interested in infrastructure as code (IaC) and containerisation (Docker, Kubernetes)
-- 📊 Monitoring and logging (ELK, Grafana, Loki, Tempo)
-- 🐍 Programming in Python, creating automation tools
-- 📚 Learning new technologies and tools
-- 📝 Writing technical documentation
-
-
-## Statistics
+    </br></br>
 
 <div align="center">
+  <h2>What I Do</h2>
+    <b>☁️ Cloud & Orchestration:</b> Architecting and maintaining complex, high-load infrastructure on <b>AWS</b> and <b>Kubernetes</b>.</br>
+    <b>🏗️ Automation & IaC:</b> Driving efficiency through Infrastructure as Code (<b>Terraform, Ansible</b>) and automation (<b>Python, Bash</b>).</br>
+    <b>⚙️ CI/CD & DevOps:</b> Streamlining workflows with <b>GitLab CI/CD, Jenkins</b>, and <b>Argo CD</b>, including major platform migrations.</br>
+    <b>👀 Observability:</b> Implementing advanced solutions (<b>Prometheus, Grafana, ELK, Istio</b>) for reliability and low MTTR.</br>
+    <b>💰 Cost Optimization:</b> Utilizing dynamic provisioning (<b>Karpenter</b>) and cloud-native practices for resource efficiency.</br>
+</div>
+
+<div align="center">
+  <h2>Statistics</h2>
 <!-- # Unstable widget
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=obervinov&mode=weekly" alt="GitHub Streak" style="width: 500px; height: auto; margin: 10px;" />

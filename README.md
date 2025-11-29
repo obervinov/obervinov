@@ -64,14 +64,6 @@
     <img src="https://streak-stats.demolab.com?user=obervinov&mode=weekly" alt="GitHub Streak" style="width: 500px; height: auto; margin: 10px;" />
   </a>
   </br> -->
-  <a href="https://github.com/obervinov">
-    <img src="https://github-readme-stats.vercel.app/api?username=obervinov" alt="GitHub Stats" style="width: 500px; height: auto; margin: 10px;" />
-  </a>
-  </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obervinov" alt="Top Langs" style="width: 500px; height: auto; margin: 10px;" />
-  </a>
-  </br>
   <a href="https://github-readme-streak-stats.herokuapp.com">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=obervinov" alt="Streak Stats" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>

@@ -64,10 +64,6 @@
     <img src="https://streak-stats.demolab.com?user=obervinov&mode=weekly" alt="GitHub Streak" style="width: 500px; height: auto; margin: 10px;" />
   </a>
   </br> -->
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=obervinov" alt="Streak Stats" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
-  </a>
-  </br>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&hide_border=true&theme=github-compact" alt="GitHub Activity" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>

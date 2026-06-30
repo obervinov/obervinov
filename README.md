@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=obervinov&style=for-the-badge&color=blue" alt="Counter"/>
   </a>
 </div>
-<h4 align="center"> DevOps/SRE Engineer | Kubernetes, AWS, Automation, Observability, IaC | Ensuring Scalable & Reliable Systems </h4></br>
+<h4 align="center"> Senior Platform Engineer | AI/LLM platform & DevX | Kubernetes · multi-cloud · IaC · LLMOps. Turning chronic platform pain into self-serve patterns. </h4></br>
 
 
 <div align="center">

@@ -70,4 +70,24 @@
 </div>
 
 <!--CONTRIB:START-->
+### Open-Source Contributions
+
+| Repository | Commits | PRs | Issues |
+| --- | --: | --: | --: |
+| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 0 | 0 | 1 |
+| [elastic/kibana](https://github.com/elastic/kibana) | 0 | 0 | 1 |
+| [cvat-ai/cvat](https://github.com/cvat-ai/cvat) | 0 | 0 | 1 |
+| [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | 0 | 0 | 3 |
+| [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) | 0 | 1 | 1 |
+| [derailed/popeye](https://github.com/derailed/popeye) | 0 | 1 | 0 |
+| [kiali/kiali](https://github.com/kiali/kiali) | 0 | 0 | 2 |
+| [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) | 0 | 0 | 2 |
+| [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) | 3 | 1 | 1 |
+| [jaegertracing/helm-charts](https://github.com/jaegertracing/helm-charts) | 1 | 1 | 1 |
+| [hashicorp/hcp-terraform-operator](https://github.com/hashicorp/hcp-terraform-operator) | 0 | 0 | 1 |
+| [cloudposse/terraform-aws-backup](https://github.com/cloudposse/terraform-aws-backup) | 1 | 1 | 1 |
+| [hashicorp/terraform-helm](https://github.com/hashicorp/terraform-helm) | 0 | 1 | 0 |
+| [ncecere/terraform-provider-litellm](https://github.com/ncecere/terraform-provider-litellm) | 2 | 2 | 2 |
+| [locustbaby/trivy-ui](https://github.com/locustbaby/trivy-ui) | 7 | 1 | 0 |
+| [a-earthperson/rxresume-mcp](https://github.com/a-earthperson/rxresume-mcp) | 1 | 1 | 0 |
 <!--CONTRIB:END-->

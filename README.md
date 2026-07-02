@@ -68,3 +68,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=obervinov&hide_border=true&theme=github-compact" alt="GitHub Activity" style="width: auto; max-width: 500px; height: auto; margin: 10px;" />
   </a>
 </div>
+
+<!--CONTRIB:START-->
+<!--CONTRIB:END-->

@@ -72,9 +72,7 @@
 <!--CONTRIB:START-->
 ### Open-Source Contributions
 
-<div align="center">
-  <img src="./contributions.svg" alt="Open-source contributions">
-</div>
+<img src="./contributions.svg" alt="Open-source contributions">
 
 <details>
 <summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.3k · 1 issue</summary>

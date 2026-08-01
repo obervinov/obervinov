@@ -104,11 +104,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
 
-- 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
-- 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
-- 📝 [1 commit](https://github.com/jaegertracing/helm-charts/commits?author=obervinov)
+- 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
+- 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
+- 📝 [1 commit](https://github.com/cloudposse/terraform-aws-backup/commits?author=obervinov)
 </details>
 
 <details>
@@ -120,11 +120,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
 
-- 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
-- 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
-- 📝 [1 commit](https://github.com/cloudposse/terraform-aws-backup/commits?author=obervinov)
+- 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
+- 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
+- 📝 [1 commit](https://github.com/jaegertracing/helm-charts/commits?author=obervinov)
 </details>
 
 <details>
@@ -135,10 +135,10 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.5k · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
 
-- 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
-- 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
+- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
+- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
 </details>
 
 <details>
@@ -149,22 +149,28 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
+<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.6k · 1 PR · 1 issue</summary>
 
-- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
-- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
+- 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
+- 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+<summary><b><a href="https://github.com/hashicorp/terraform-helm">hashicorp/terraform-helm</a></b> — ★ 75 · 1 PR</summary>
 
-- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+- 🔃 [Add the "resources" specification to sync-workspace-deployment](https://github.com/hashicorp/terraform-helm/pull/72)
 </details>
 
 <details>
 <summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
 
 - 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
+
+- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
 </details>
 
 <details>
@@ -180,15 +186,9 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/hashicorp/terraform-helm">hashicorp/terraform-helm</a></b> — ★ 75 · 1 PR</summary>
+<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
 
-- 🔃 [Add the "resources" specification to sync-workspace-deployment](https://github.com/hashicorp/terraform-helm/pull/72)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
-
-- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
+- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
 </details>
 
 <details>

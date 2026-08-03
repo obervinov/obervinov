@@ -19,9 +19,9 @@
 
 
 <!--SPOTLIGHT:START-->
-<img src="assets/banner.svg" alt="Hey, I'm Oleg — Senior Platform Engineer · AI/LLM Platform &amp; DevX">
+<img src="assets/banner.svg" alt="Hey, I'm Oleg — Senior Platform Engineer">
 
-<img src="assets/positioning.svg" alt="10+ years in platform engineering · AI/LLM platform &amp; DevX · Kubernetes on GCP/AWS · IaC · FinOps">
+<img src="assets/positioning.svg" alt="AI/LLM platform &amp; Developer Experience · Kubernetes · multi-cloud · IaC · LLMOps">
 
 <img src="assets/focus.svg" alt="What I Do">
 
@@ -30,53 +30,6 @@
 ### Open-Source Contributions
 
 <img src="./assets/contributions.svg" alt="Open-source contributions">
-
-<details>
-<summary><b><a href="https://github.com/"></a></b> — 32 PRs · 1 issue · 9 reviews</summary>
-
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🔃 []()
-- 🐛 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 👀 []()
-- 🔃 []()
-- 🔃 []()
-</details>
 
 <details>
 <summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 888 · 7 commits · 1 PR · 1 issue</summary>
@@ -104,6 +57,14 @@
 </details>
 
 <details>
+<summary><b><a href="https://github.com/aws/karpenter-provider-aws">aws/karpenter-provider-aws</a></b> — ★ 7.7k · 3 issues</summary>
+
+- 🐛 [Daemonset Overhead and the number of pods](https://github.com/aws/karpenter-provider-aws/issues/7938)
+- 🐛 [Karpenter doesn't update EC2NodeClass status after `Failed to detect the cluster CIDR error`](https://github.com/aws/karpenter-provider-aws/issues/7875)
+- 🐛 [NodeClass for GPU nodes and special AMIs](https://github.com/aws/karpenter-provider-aws/issues/7731)
+</details>
+
+<details>
 <summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
@@ -117,14 +78,6 @@
 - 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
 - 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
 - 📝 [1 commit](https://github.com/jaegertracing/helm-charts/commits?author=obervinov)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/aws/karpenter-provider-aws">aws/karpenter-provider-aws</a></b> — ★ 7.7k · 3 issues</summary>
-
-- 🐛 [Daemonset Overhead and the number of pods](https://github.com/aws/karpenter-provider-aws/issues/7938)
-- 🐛 [Karpenter doesn't update EC2NodeClass status after `Failed to detect the cluster CIDR error`](https://github.com/aws/karpenter-provider-aws/issues/7875)
-- 🐛 [NodeClass for GPU nodes and special AMIs](https://github.com/aws/karpenter-provider-aws/issues/7731)
 </details>
 
 <details>
@@ -156,9 +109,9 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
 
-- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
 </details>
 
 <details>
@@ -168,32 +121,32 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.8k · 1 issue</summary>
-
-- 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
-
-- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
-</details>
-
-<details>
 <summary><b><a href="https://github.com/hashicorp/terraform-helm">hashicorp/terraform-helm</a></b> — ★ 75 · 1 PR</summary>
 
 - 🔃 [Add the "resources" specification to sync-workspace-deployment](https://github.com/hashicorp/terraform-helm/pull/72)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
-
-- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
-</details>
-
-<details>
 <summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.4k · 1 issue</summary>
 
 - 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.8k · 1 issue</summary>
+
+- 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+
+- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
+
+- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
 </details>
 <!--SPOTLIGHT:END-->

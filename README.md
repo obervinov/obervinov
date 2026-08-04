@@ -57,14 +57,6 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
-
-- 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
-- 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
-- 📝 [1 commit](https://github.com/cloudposse/terraform-aws-backup/commits?author=obervinov)
-</details>
-
-<details>
 <summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
@@ -81,24 +73,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
+<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
 
-- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
-- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/kubernetes-sigs/karpenter">kubernetes-sigs/karpenter</a></b> — ★ 2.1k · 2 issues</summary>
-
-- 🐛 [The behavior related to disruption budget is not clearly explained in the documentation](https://github.com/kubernetes-sigs/karpenter/issues/2218)
-- 🐛 [NodeClaim finalizer karpenter.sh/termination it has been stuck and has not been deleted](https://github.com/kubernetes-sigs/karpenter/issues/2169)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.6k · 1 PR · 1 issue</summary>
-
-- 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
-- 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
+- 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
+- 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
+- 📝 [1 commit](https://github.com/cloudposse/terraform-aws-backup/commits?author=obervinov)
 </details>
 
 <details>
@@ -109,9 +88,24 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.4k · 1 issue</summary>
+<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
 
-- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
+- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
+- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.6k · 1 PR · 1 issue</summary>
+
+- 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
+- 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/kubernetes-sigs/karpenter">kubernetes-sigs/karpenter</a></b> — ★ 2.1k · 2 issues</summary>
+
+- 🐛 [The behavior related to disruption budget is not clearly explained in the documentation](https://github.com/kubernetes-sigs/karpenter/issues/2218)
+- 🐛 [NodeClaim finalizer karpenter.sh/termination it has been stuck and has not been deleted](https://github.com/kubernetes-sigs/karpenter/issues/2169)
 </details>
 
 <details>
@@ -121,15 +115,15 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
+<summary><b><a href="https://github.com/hashicorp/terraform-helm">hashicorp/terraform-helm</a></b> — ★ 75 · 1 PR</summary>
 
-- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
+- 🔃 [Add the "resources" specification to sync-workspace-deployment](https://github.com/hashicorp/terraform-helm/pull/72)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
 
-- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
 </details>
 
 <details>
@@ -139,14 +133,20 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/hashicorp/terraform-helm">hashicorp/terraform-helm</a></b> — ★ 75 · 1 PR</summary>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.4k · 1 issue</summary>
 
-- 🔃 [Add the "resources" specification to sync-workspace-deployment](https://github.com/hashicorp/terraform-helm/pull/72)
+- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
 
 <details>
 <summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.8k · 1 issue</summary>
 
 - 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+
+- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
 </details>
 <!--SPOTLIGHT:END-->

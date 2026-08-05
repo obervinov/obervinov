@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 39 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 40 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -54,14 +54,6 @@
 - 🐛 [litellm_team_member budgets never reset: budget_duration has no effect without budget_reset_at](https://github.com/ncecere/terraform-provider-litellm/issues/112)
 - 🐛 [Unable to clear team max_budget and budget_duration back to null (unlimited)](https://github.com/ncecere/terraform-provider-litellm/issues/99)
 - 📝 [2 commits](https://github.com/ncecere/terraform-provider-litellm/commits?author=obervinov)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
-
-- 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
-- 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
-- 📝 [1 commit](https://github.com/jaegertracing/helm-charts/commits?author=obervinov)
 </details>
 
 <details>
@@ -81,17 +73,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
+<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
 
-- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
-- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
-
-- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
-- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
+- 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
+- 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
+- 📝 [1 commit](https://github.com/jaegertracing/helm-charts/commits?author=obervinov)
 </details>
 
 <details>
@@ -109,9 +95,17 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
+<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
 
-- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
+- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
+- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
+
+- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
+- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
 </details>
 
 <details>
@@ -121,21 +115,9 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
-
-- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
-</details>
-
-<details>
 <summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
 
 - 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.4k · 1 issue</summary>
-
-- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
 
 <details>
@@ -145,8 +127,26 @@
 </details>
 
 <details>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.5k · 1 issue</summary>
+
+- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
+
+- 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
+</details>
+
+<details>
 <summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
 
 - 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
+
+- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
 </details>
 <!--SPOTLIGHT:END-->

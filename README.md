@@ -5,7 +5,7 @@
   <a href="https://about.obervinov.com">
     <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logoColor=fff" alt="Personal site"/>
   </a>
-  <a href="https://resume.obervinov.com/obervinov/platform-engineer">
+  <a href="https://cv.obervinov.com">
     <img src="https://img.shields.io/badge/My_CV-blue?style=for-the-badge&logoColor=fff" alt="Full CV"/>
   </a>
 </div>

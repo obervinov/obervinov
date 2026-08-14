@@ -58,14 +58,6 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/aws/karpenter-provider-aws">aws/karpenter-provider-aws</a></b> — ★ 7.7k · 3 issues</summary>
-
-- 🐛 [Daemonset Overhead and the number of pods](https://github.com/aws/karpenter-provider-aws/issues/7938)
-- 🐛 [Karpenter doesn't update EC2NodeClass status after `Failed to detect the cluster CIDR error`](https://github.com/aws/karpenter-provider-aws/issues/7875)
-- 🐛 [NodeClass for GPU nodes and special AMIs](https://github.com/aws/karpenter-provider-aws/issues/7731)
-</details>
-
-<details>
 <summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
@@ -82,10 +74,11 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
+<summary><b><a href="https://github.com/aws/karpenter-provider-aws">aws/karpenter-provider-aws</a></b> — ★ 7.7k · 3 issues</summary>
 
-- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
-- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
+- 🐛 [Daemonset Overhead and the number of pods](https://github.com/aws/karpenter-provider-aws/issues/7938)
+- 🐛 [Karpenter doesn't update EC2NodeClass status after `Failed to detect the cluster CIDR error`](https://github.com/aws/karpenter-provider-aws/issues/7875)
+- 🐛 [NodeClass for GPU nodes and special AMIs](https://github.com/aws/karpenter-provider-aws/issues/7731)
 </details>
 
 <details>
@@ -96,10 +89,10 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
+<summary><b><a href="https://github.com/a-earthperson/rxresume-mcp">a-earthperson/rxresume-mcp</a></b> — ★ 6 · 1 commit · 1 PR</summary>
 
-- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
-- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
+- 🔀 [ci: build multi-arch docker image (amd64 + arm64)](https://github.com/a-earthperson/rxresume-mcp/pull/7)
+- 📝 [1 commit](https://github.com/a-earthperson/rxresume-mcp/commits?author=obervinov)
 </details>
 
 <details>
@@ -110,33 +103,10 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
+<summary><b><a href="https://github.com/kiali/kiali">kiali/kiali</a></b> — ★ 3.6k · 2 issues</summary>
 
-- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.5k · 1 issue</summary>
-
-- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.9k · 1 issue</summary>
-
-- 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
-
-- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
-</details>
-
-<details>
-<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
-
-- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+- 🐛 [Don't understand the behavior when forming external service names on the graph when using `ServiceEntry`](https://github.com/kiali/kiali/issues/6314)
+- 🐛 [Gateway-API: Istio sidecar container not found in Pod(s)](https://github.com/kiali/kiali/issues/7860)
 </details>
 
 <details>
@@ -146,8 +116,38 @@
 </details>
 
 <details>
+<summary><b><a href="https://github.com/ReNewator/MCP-WYGIWYH">ReNewator/MCP-WYGIWYH</a></b> — ★ 7 · 1 PR</summary>
+
+- 🔃 [Add optional OAuth 2.1 / DCR support (client side of WYGIWYH #557)](https://github.com/ReNewator/MCP-WYGIWYH/pull/1)
+</details>
+
+<details>
 <summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
 
 - 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.5k · 1 issue</summary>
+
+- 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
+
+- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
+
+- 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.9k · 1 issue</summary>
+
+- 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
 </details>
 <!--SPOTLIGHT:END-->

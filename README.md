@@ -19,9 +19,9 @@
 
 
 <!--SPOTLIGHT:START-->
-<img src="assets/banner.svg" alt="Hey, I'm Oleg — Senior Platform Engineer · AI/LLM Platform &amp; DevX">
+<img src="assets/banner.svg" alt="Hey, I'm Oleg — Senior Platform Engineer · AI/LLM Platform &amp; Cost Engineering">
 
-<img src="assets/positioning.svg" alt="10+ years in platform engineering · AI/LLM platform &amp; DevX · Kubernetes on GCP/AWS">
+<img src="assets/positioning.svg" alt="10+ years in platform engineering · AI/LLM platform &amp; Cost Engineering · Kubernetes on GCP/AWS">
 
 <img src="assets/focus.svg" alt="What I Do">
 
@@ -34,7 +34,7 @@
 #### Merged code
 
 <details>
-<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 890 · 8 commits · 2 PRs · 1 issue</summary>
+<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 898 · 8 commits · 2 PRs · 1 issue</summary>
 
 - 🐛 [It seems that Synth is no longer suitable for personal use](https://github.com/eitchtee/WYGIWYH/issues/292)
 - 🔀 [fix: recurring tags and entities dropped when generated for another user](https://github.com/eitchtee/WYGIWYH/pull/581)
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 319 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 320 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
 - 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/ncecere/terraform-provider-litellm">ncecere/terraform-provider-litellm</a></b> — ★ 61 · 2 commits · 2 PRs · 2 issues</summary>
+<summary><b><a href="https://github.com/ncecere/terraform-provider-litellm">ncecere/terraform-provider-litellm</a></b> — ★ 65 · 2 commits · 2 PRs · 2 issues</summary>
 
 - 🔃 [feat(team-member): add budget_duration; team: add team_member_budget_duration](https://github.com/ncecere/terraform-provider-litellm/pull/113)
 - 🔀 [Fix: send explicit null to clear team budget and nullable fields](https://github.com/ncecere/terraform-provider-litellm/pull/104)
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 41 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 42 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -85,19 +85,19 @@
 #### Issues & open PRs
 
 <details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 23.9k · 1 issue</summary>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.1k · 1 issue</summary>
 
 - 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.2k · 1 issue</summary>
+<summary><b><a href="https://github.com/elastic/kibana">elastic/kibana</a></b> — ★ 21.3k · 1 issue</summary>
 
 - 🐛 [Disable maximum table cell height for nested table](https://github.com/elastic/kibana/issues/68743)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.5k · 1 issue</summary>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.7k · 1 issue</summary>
 
 - 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
@@ -111,14 +111,14 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.6k · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.8k · 1 PR · 1 issue</summary>
 
 - 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
 - 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.3k · 1 PR</summary>
+<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.4k · 1 PR</summary>
 
 - 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
 </details>
@@ -138,7 +138,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 182 · 1 issue</summary>
+<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 183 · 1 issue</summary>
 
 - 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
 </details>

@@ -34,12 +34,19 @@
 #### Merged code
 
 <details>
-<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 898 · 8 commits · 2 PRs · 1 issue</summary>
+<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 899 · 8 commits · 2 PRs · 1 issue</summary>
 
 - 🐛 [It seems that Synth is no longer suitable for personal use](https://github.com/eitchtee/WYGIWYH/issues/292)
 - 🔀 [fix: recurring tags and entities dropped when generated for another user](https://github.com/eitchtee/WYGIWYH/pull/581)
 - 🔀 [feat(api): add API tokens and OAuth2 client support for external integrations](https://github.com/eitchtee/WYGIWYH/pull/557)
 - 📝 [8 commits](https://github.com/eitchtee/WYGIWYH/commits?author=obervinov)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/VictoriaMetrics/helm-charts">VictoriaMetrics/helm-charts</a></b> — ★ 564 · 1 commit · 1 PR</summary>
+
+- 🔀 [feat(k8s-stack): allow imagePullSecrets on the sync-job Pod](https://github.com/VictoriaMetrics/helm-charts/pull/3218)
+- 📝 [1 commit](https://github.com/VictoriaMetrics/helm-charts/commits?author=obervinov)
 </details>
 
 <details>
@@ -51,7 +58,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 119 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
 - 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
@@ -59,7 +66,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/ncecere/terraform-provider-litellm">ncecere/terraform-provider-litellm</a></b> — ★ 65 · 2 commits · 2 PRs · 2 issues</summary>
+<summary><b><a href="https://github.com/ncecere/terraform-provider-litellm">ncecere/terraform-provider-litellm</a></b> — ★ 68 · 2 commits · 2 PRs · 2 issues</summary>
 
 - 🔃 [feat(team-member): add budget_duration; team: add team_member_budget_duration](https://github.com/ncecere/terraform-provider-litellm/pull/113)
 - 🔀 [Fix: send explicit null to clear team budget and nullable fields](https://github.com/ncecere/terraform-provider-litellm/pull/104)
@@ -69,7 +76,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 42 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 45 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -85,7 +92,7 @@
 #### Issues & open PRs
 
 <details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.1k · 1 issue</summary>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.2k · 1 issue</summary>
 
 - 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
 </details>
@@ -97,7 +104,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.7k · 1 issue</summary>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.8k · 1 issue</summary>
 
 - 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
@@ -131,7 +138,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/kubernetes-sigs/karpenter">kubernetes-sigs/karpenter</a></b> — ★ 2.1k · 2 issues</summary>
+<summary><b><a href="https://github.com/kubernetes-sigs/karpenter">kubernetes-sigs/karpenter</a></b> — ★ 2.2k · 2 issues</summary>
 
 - 🐛 [The behavior related to disruption budget is not clearly explained in the documentation](https://github.com/kubernetes-sigs/karpenter/issues/2218)
 - 🐛 [NodeClaim finalizer karpenter.sh/termination it has been stuck and has not been deleted](https://github.com/kubernetes-sigs/karpenter/issues/2169)

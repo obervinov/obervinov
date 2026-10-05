@@ -34,7 +34,7 @@
 #### Merged code
 
 <details>
-<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 899 · 8 commits · 2 PRs · 1 issue</summary>
+<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 896 · 8 commits · 2 PRs · 1 issue</summary>
 
 - 🐛 [It seems that Synth is no longer suitable for personal use](https://github.com/eitchtee/WYGIWYH/issues/292)
 - 🔀 [fix: recurring tags and entities dropped when generated for another user](https://github.com/eitchtee/WYGIWYH/pull/581)
@@ -43,14 +43,14 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/VictoriaMetrics/helm-charts">VictoriaMetrics/helm-charts</a></b> — ★ 564 · 1 commit · 1 PR</summary>
+<summary><b><a href="https://github.com/VictoriaMetrics/helm-charts">VictoriaMetrics/helm-charts</a></b> — ★ 568 · 1 commit · 1 PR</summary>
 
 - 🔀 [feat(k8s-stack): allow imagePullSecrets on the sync-job Pod](https://github.com/VictoriaMetrics/helm-charts/pull/3218)
 - 📝 [1 commit](https://github.com/VictoriaMetrics/helm-charts/commits?author=obervinov)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 320 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/jaegertracing/helm-charts">jaegertracing/helm-charts</a></b> — ★ 321 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [\[jaeger\] fix .Values.storage.elasticsearch.tls for es-rollover-hook](https://github.com/jaegertracing/helm-charts/pull/522)
 - 🐛 [\[Bug\]: jaeger-chart: does not exist .Values.storage.elasticsearch.tls in es-rollover-hook.yml](https://github.com/jaegertracing/helm-charts/issues/521)
@@ -58,7 +58,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 119 · 1 commit · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/cloudposse/terraform-aws-backup">cloudposse/terraform-aws-backup</a></b> — ★ 118 · 1 commit · 1 PR · 1 issue</summary>
 
 - 🔀 [Support for additional policy for creating reserial copies of S3 buckets](https://github.com/cloudposse/terraform-aws-backup/pull/89)
 - 🐛 [The module does not work with S3 buckets](https://github.com/cloudposse/terraform-aws-backup/issues/88)
@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 45 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 46 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -92,7 +92,7 @@
 #### Issues & open PRs
 
 <details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.2k · 1 issue</summary>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.3k · 1 issue</summary>
 
 - 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
 </details>
@@ -104,7 +104,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.8k · 1 issue</summary>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.9k · 1 issue</summary>
 
 - 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
@@ -118,7 +118,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.8k · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.9k · 1 PR · 1 issue</summary>
 
 - 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
 - 🔃 [Fix CDN downloads: Use requests with proxy support](https://github.com/subzeroid/instagrapi/pull/2379)
@@ -148,6 +148,13 @@
 <summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 183 · 1 issue</summary>
 
 - 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/italux/sentry-prometheus-exporter">italux/sentry-prometheus-exporter</a></b> — ★ 78 · 2 PRs</summary>
+
+- 🔃 [Add opt-in stats_v2 collector with background refresh](https://github.com/italux/sentry-prometheus-exporter/pull/124)
+- 🔃 [Add request timeout to Sentry API calls](https://github.com/italux/sentry-prometheus-exporter/pull/123)
 </details>
 
 <details>

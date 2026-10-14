@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/obervinov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://about.obervinov.com">
+  <a href="https://obervinov.com">
     <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logoColor=fff" alt="Personal site"/>
   </a>
   <a href="https://cv.obervinov.com">

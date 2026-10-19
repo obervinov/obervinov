@@ -34,10 +34,9 @@
 #### Merged code
 
 <details>
-<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 897 · 8 commits · 1 PR · 1 issue</summary>
+<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 898 · 8 commits · 1 issue</summary>
 
 - 🐛 [It seems that Synth is no longer suitable for personal use](https://github.com/eitchtee/WYGIWYH/issues/292)
-- 🔀 [fix: recurring tags and entities dropped when generated for another user](https://github.com/eitchtee/WYGIWYH/pull/581)
 - 📝 [8 commits](https://github.com/eitchtee/WYGIWYH/commits?author=obervinov)
 </details>
 
@@ -73,7 +72,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 47 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 48 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -100,7 +99,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 16.9k · 1 issue</summary>
+<summary><b><a href="https://github.com/cvat-ai/cvat">cvat-ai/cvat</a></b> — ★ 17.0k · 1 issue</summary>
 
 - 🐛 [Migration of backend data to external storage services (e.g. AWS S3)](https://github.com/cvat-ai/cvat/issues/9211)
 </details>
@@ -114,13 +113,13 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 6.9k · 1 issue</summary>
+<summary><b><a href="https://github.com/subzeroid/instagrapi">subzeroid/instagrapi</a></b> — ★ 7.0k · 1 issue</summary>
 
 - 🐛 [\[BUG\] The `set_settings()` method ignores the `country` key when setting settings from the dictionary ](https://github.com/subzeroid/instagrapi/issues/2065)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.4k · 1 PR</summary>
+<summary><b><a href="https://github.com/derailed/popeye">derailed/popeye</a></b> — ★ 6.5k · 1 PR</summary>
 
 - 🔃 [Improved minio support and updated documentation for running inside the cluster](https://github.com/derailed/popeye/pull/487)
 </details>

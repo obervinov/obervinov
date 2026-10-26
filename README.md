@@ -34,17 +34,25 @@
 #### Merged code
 
 <details>
-<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 898 · 8 commits · 1 issue</summary>
+<summary><b><a href="https://github.com/eitchtee/WYGIWYH">eitchtee/WYGIWYH</a></b> — ★ 904 · 10 commits · 2 PRs · 1 issue</summary>
 
 - 🐛 [It seems that Synth is no longer suitable for personal use](https://github.com/eitchtee/WYGIWYH/issues/292)
-- 📝 [8 commits](https://github.com/eitchtee/WYGIWYH/commits?author=obervinov)
+- 🔀 [fix(rules): write set_mute action to mute instead of is_paid](https://github.com/eitchtee/WYGIWYH/pull/625)
+- 🔀 [build(deps): bump certifi to 2026.10.19 (GHSA-6q48-6c7w-9gw2, critical)](https://github.com/eitchtee/WYGIWYH/pull/624)
+- 📝 [10 commits](https://github.com/eitchtee/WYGIWYH/commits?author=obervinov)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/VictoriaMetrics/helm-charts">VictoriaMetrics/helm-charts</a></b> — ★ 569 · 1 commit · 1 PR</summary>
+<summary><b><a href="https://github.com/VictoriaMetrics/helm-charts">VictoriaMetrics/helm-charts</a></b> — ★ 570 · 1 commit</summary>
 
-- 🔀 [feat(k8s-stack): allow imagePullSecrets on the sync-job Pod](https://github.com/VictoriaMetrics/helm-charts/pull/3218)
 - 📝 [1 commit](https://github.com/VictoriaMetrics/helm-charts/commits?author=obervinov)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/getnora-io/nora">getnora-io/nora</a></b> — ★ 350 · 1 commit · 1 PR</summary>
+
+- 🔃 [fix(deps): update webpki-roots 1.0.9 -> 1.0.11 (drops the distrusted emSign roots)](https://github.com/getnora-io/nora/pull/1171)
+- 📝 [1 commit](https://github.com/getnora-io/nora/commits?author=obervinov)
 </details>
 
 <details>
@@ -72,7 +80,7 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 48 · 7 commits · 1 PR</summary>
+<summary><b><a href="https://github.com/locustbaby/trivy-ui">locustbaby/trivy-ui</a></b> — ★ 50 · 7 commits · 1 PR</summary>
 
 - 🔀 [Support for running inside kubernetes](https://github.com/locustbaby/trivy-ui/pull/1)
 - 📝 [7 commits](https://github.com/locustbaby/trivy-ui/commits?author=obervinov)
@@ -87,7 +95,7 @@
 #### Issues & open PRs
 
 <details>
-<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.4k · 1 issue</summary>
+<summary><b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b> — ★ 24.5k · 1 issue</summary>
 
 - 🐛 [Failed to unmarshal "config.yaml": <nil>](https://github.com/argoproj/argo-cd/issues/21934)
 </details>
@@ -139,16 +147,21 @@
 </details>
 
 <details>
-<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 183 · 1 issue</summary>
+<summary><b><a href="https://github.com/CorentinTh/enclosed">CorentinTh/enclosed</a></b> — ★ 2.1k · 1 PR</summary>
 
-- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
+- 🔃 [chore(docker): pin node to 22.23.4 and the pnpm version (October 2026 security release)](https://github.com/CorentinTh/enclosed/pull/485)
 </details>
 
 <details>
-<summary><b><a href="https://github.com/italux/sentry-prometheus-exporter">italux/sentry-prometheus-exporter</a></b> — ★ 78 · 2 PRs</summary>
+<summary><b><a href="https://github.com/jupyterhub/configurable-http-proxy">jupyterhub/configurable-http-proxy</a></b> — ★ 273 · 1 PR</summary>
 
-- 🔃 [Add opt-in stats_v2 collector with background refresh](https://github.com/italux/sentry-prometheus-exporter/pull/124)
-- 🔃 [Add request timeout to Sentry API calls](https://github.com/italux/sentry-prometheus-exporter/pull/123)
+- 🔃 [Pin the node base image to 24.22.1 and let dependabot bump it](https://github.com/jupyterhub/configurable-http-proxy/pull/676)
+</details>
+
+<details>
+<summary><b><a href="https://github.com/hashicorp/hcp-terraform-operator">hashicorp/hcp-terraform-operator</a></b> — ★ 183 · 1 issue</summary>
+
+- 🐛 [🤔 Choose when runs should be triggered by VCS changes.](https://github.com/hashicorp/hcp-terraform-operator/issues/314)
 </details>
 
 <details>
